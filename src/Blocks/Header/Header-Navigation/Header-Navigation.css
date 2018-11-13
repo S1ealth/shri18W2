@@ -1,0 +1,5 @@
+/* какой-то layout для ссылок меню-навигации */
+.Header-Navigation {
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
+}
