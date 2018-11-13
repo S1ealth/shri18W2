@@ -22,7 +22,7 @@ export default function FooterNavigation(props: any) {
   })
   return (
     <nav className={cnLink()}>
-    {urls}
+      {urls}
     </nav>
   )
 }

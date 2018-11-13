@@ -21,7 +21,7 @@ export default function HeaderNavigation(props: any) {
   })
   return (
     <nav className={cnLink()}>
-    {urls}
+      {urls}
     </nav>
   )
 }
